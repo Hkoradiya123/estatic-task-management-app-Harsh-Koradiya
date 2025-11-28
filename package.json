@@ -2,16 +2,21 @@
   "name": "task-management-app",
   "version": "1.0.0",
   "description": "Full-stack task management app with React and Node/Express",
+  "private": true,
   "scripts": {
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
     "dev:server": "cd server && npm run dev",
     "dev:client": "cd client && npm run dev",
-    "install:all": "npm install && cd server && npm install && cd ../client && npm install"
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "vercel-build": "node vercel-build.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "concurrently": "^9.2.1"
+  },
+  "engines": {
+    "node": ">=14.x"
   }
 }
