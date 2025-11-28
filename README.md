@@ -22,9 +22,13 @@ A simple, full-stack task management application built with **React** (Vite) and
 
 ## Screenshots
 
-<img width="1911" height="911" alt="Login Page" src="YOUR_GITHUB_ASSET_URL_HERE" />
-<img width="1898" height="958" alt="Home Page" src="YOUR_GITHUB_ASSET_URL_HERE" />
-<img width="1919" height="964" alt="Task Management" src="YOUR_GITHUB_ASSET_URL_HERE" />
+<img width="1912" height="1039" alt="Screenshot 2025-11-28 215840" src="https://github.com/user-attachments/assets/2ecc7090-ddbc-4476-80e7-1266ac45f8ca" />
+<img width="1919" height="1038" alt="Screenshot 2025-11-28 215853" src="https://github.com/user-attachments/assets/2bfc6cf1-15ce-4376-80d9-b5d065d2770b" />
+<img width="1917" height="1043" alt="Screenshot 2025-11-28 220021" src="https://github.com/user-attachments/assets/a2ce3920-e2b8-4898-ba42-05af6ba81db4" />
+<img width="1919" height="1044" alt="Screenshot 2025-11-28 220035" src="https://github.com/user-attachments/assets/cdc3b430-0d7f-41cb-9fa4-1c834a31bbea" />
+<img width="1915" height="1032" alt="Screenshot 2025-11-28 220114" src="https://github.com/user-attachments/assets/09537a82-ba92-438f-b6fd-56bc4911d339" />
+<img width="1919" height="875" alt="Screenshot 2025-11-28 220132" src="https://github.com/user-attachments/assets/6803f50b-d188-480b-942a-da4014696e6c" />
+
 
 ## ⚙️ Installation & Setup
 
